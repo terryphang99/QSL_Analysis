@@ -1,2 +1,2 @@
-# QSL_Analysis
-Spectral Analysis of Quantum Spin Liquids
+# Spectral_Unmixing
+Spectral Unmixing by nonnegative matrix factorization (NMF)
